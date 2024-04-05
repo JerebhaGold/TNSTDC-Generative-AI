@@ -1,0 +1,4 @@
+problem statement:
+Many people struggle with expressing themselves through poetry due to the complexities of language and the creative process involved. Moreover, not everyone has the time or inspiration to craft meaningful poems. There is a need for a tool that can assist individuals in generating poetic verses on various topics without the need for extensive poetic knowledge or creativity.
+Descripition:
+An AI-based Poetry Generator is a tool powered by artificial intelligence that creates poems automatically. Users input certain preferences like the theme or mood they want, and the AI generates unique poems accordingly. It's like having a digital poet at your service, helping you come up with creative verses without needing to write them yourself. Whether you need inspiration for a personal project or just enjoy reading poetry, this AI tool can provide a wide range of poetic expressions to suit your needs.
